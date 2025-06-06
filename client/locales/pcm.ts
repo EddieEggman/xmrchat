@@ -119,7 +119,7 @@ export default {
     stealthex:
       "Change your crypto go Monero (XMR) for {stealthex} and other places like {kycnot}.",
     haveno:
-      "Buy Monero for exchange wey need no KYC for {haveno}. You fi learn from di tutorial for {blog}.",
+      "Buy Monero for exchange wey need no KYC for {haveno}.",
     thisBlogPost: "Dis blog post",
     kraken: "Buy Monero for exchange wey need KYC for {kraken}.",
     xmrbazaar: "Sell things or services collect Monero for {xmrbazaar}.",
